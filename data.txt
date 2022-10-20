@@ -4,3 +4,8 @@ https://isaempresas.sharepoint.com/FormatosElectronicos/ElementosDevolutivos/Lis
 
 
 https://apps.powerapps.com/play/e/default-c980e410-0b5c-48bc-bd1a-8b91cabc84bc/a/9a623bd9-b9fd-4813-b792-3742b72d5455?tenantId=c980e410-0b5c-48bc-bd1a-8b91cabc84bc?scr=qry&id=1263
+
+
+FILTRO DE BUSQIEDA
+
+https://isaempresas.sharepoint.com/FormatosElectronicos/ElementosDevolutivos/Lists/Elementos%20Devolutivos%20%20Encabezado/Usuario.aspx?FilterFields1=ID&FilterValues1=2861%3B%2353%3B%2354%3B%2356&FilterTypes1=Counter&viewid=2689ce0d%2Dda3b%2D46af%2Db209%2D4fa09c181525
